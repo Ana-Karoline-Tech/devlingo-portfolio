@@ -3,14 +3,9 @@
   <p>Desenvolvido por <strong>Ana Karoline Ribeiro</strong></p>
 </div>
 
-<div align="left">
-  <a href="https://shields.io)](https://dev-lingo-tan.vercel.app/" target="_blank">
-    <img src="https://shields.io" alt="Vercel">
-  </a>
-  <a href="COLOQUE_AQUI_O_LINK_DO_SEU_LINKEDIN" target="_blank">
-    <img src="https://www.linkedin.com/in/ana-karoline-silva-ribeiro/" alt="LinkedIn">
-  </a>
-</div>
+### 🔗 Links Úteis
+* 🚀 <a href="https://dev-lingo-tan.vercel.app/" target="_blank">**Acesse o Projeto na Vercel**</a>
+* 💼 <a href="https://www.linkedin.com/in/ana-karoline-silva-ribeiro/" target="_blank">**Conecte-se comigo no LinkedIn**</a>
 
 ---
 
