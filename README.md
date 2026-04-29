@@ -1,8 +1,16 @@
-# DevLingo - Gamified Learning Platform
-**Desenvolvido por Ana Karoline Ribeiro**
+<div align="center">
+  <h1>DevLingo - Gamified Learning Platform</h1>
+  <p>Desenvolvido por <strong>Ana Karoline Ribeiro</strong></p>
+</div>
 
-[![Link do Projeto](https://shields.io)](https://dev-lingo-tan.vercel.app/)
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/ana-karoline-silva-ribeiro/)
+<div align="left">
+  <a href="https://shields.io)](https://dev-lingo-tan.vercel.app/" target="_blank">
+    <img src="https://shields.io" alt="Vercel">
+  </a>
+  <a href="COLOQUE_AQUI_O_LINK_DO_SEU_LINKEDIN" target="_blank">
+    <img src="https://www.linkedin.com/in/ana-karoline-silva-ribeiro/" alt="LinkedIn">
+  </a>
+</div>
 
 ---
 
