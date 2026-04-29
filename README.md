@@ -1,5 +1,6 @@
 # 🦉 DevLingo - Gamified Learning Platform
 **Desenvolvido por Ana Karoline Ribeiro**
+<img width="1920" height="872" alt="giphy-devLingo" src="https://github.com/user-attachments/assets/1fa9f988-4358-4f95-99e6-9f8dd0d1d1a8" />
 
 ![DevLingo Preview](./prints-projeto/gif/giphy-devLingo.gif)
 
